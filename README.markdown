@@ -1,5 +1,6 @@
 ## Whiskey Disk -- embarrassingly fast deployments. ##
 
+:pumpgun:
 
 A very opinionated deployment tool, designed to be as fast as technologically possible.  (For more background, read the [WHY.txt](http://github.com/flogic/whiskey_disk/raw/master/WHY.txt) file)  Should work with any project which is git hosted, not just Ruby / Ruby on Rails projects.  Allows for local deploys as well as remote.
 
